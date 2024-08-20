@@ -17,11 +17,11 @@ return(
         </li>
         <li>
 
-            profile
+            name
         </li>
         <li>
 
-            profile
+            subject
         </li>
     </ul>
 </div>
