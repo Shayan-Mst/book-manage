@@ -7,7 +7,7 @@ return(
 
 
 
-    <img src={SpinnerGif}className="d-block m-auto" style={{width:"200px"}} alt="Loading"/>
+    <img src={SpinnerGif}className="d-block m-auto" style={{width:"200px"}} alt="Loading" name='spinnerLoader'/>
 )
 
 
